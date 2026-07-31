@@ -10,9 +10,7 @@ I am an Associate Professor in the Department of Business Analytics and Informat
 
 My research examines operational decision-making in digital platforms, service systems, supply chains, and technology-enabled markets. I use analytical modeling to study platform operations, service design, pricing, congestion, artificial intelligence, and strategic interactions among firms and customers.
 
-[Research](research.qmd){.btn .btn-primary}
-[Download CV](files/jagan-jacob-cv.pdf){.btn .btn-outline-primary}
-[ORCID](https://orcid.org/0000-0001-5809-3092){.btn .btn-outline-primary}
+[Research](research.qmd){.btn .btn-primary} [ORCID](https://orcid.org/0000-0001-5809-3092){.btn .btn-outline-primary}
 
 ## Research Areas
 
@@ -23,18 +21,6 @@ My research examines operational decision-making in digital platforms, service s
 - Game theory and economic modeling
 - Logistics and last-mile delivery
 
-## Selected Publications
-
-### Delivery-Time Benchmark Design in Food Delivery Platforms
-
-*European Journal of Operational Research*, 2026
-
-### When to Implement AI-Assisted Policies at a Warehouse?
-
-*Computers & Industrial Engineering*, 2026
-
-### Coordinating Incentives and Curb Capacity in a Food Delivery Platform
-
-*European Journal of Operational Research*, 2026
+Collaborations are always welcome. Please feel free to reach out to me via email at jaganjacob91@gmail.com 
 
 [View all publications](research.qmd){.btn .btn-primary}

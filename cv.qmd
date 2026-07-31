@@ -1,7 +1,0 @@
----
-title: "Curriculum Vitae"
----
-
-My current curriculum vitae is available below.
-
-[Download Curriculum Vitae](files/jagan-jacob-cv.pdf){.btn .btn-primary}
