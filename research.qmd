@@ -1,0 +1,108 @@
+---
+title: "Research"
+---
+
+My research focuses on analytical and strategic problems in platform operations, service operations, supply chains, pricing, logistics, and technology-enabled markets.
+
+## Research Interests
+
+- Operations and supply chain management
+- Platform and service operations
+- Revenue management and pricing
+- Economic modeling
+- Mechanism design
+- Game theory
+- Sharing-economy and two-sided platforms
+- Artificial intelligence in operations
+
+## Peer-Reviewed Journal Publications
+
+### Delivery-Time Benchmark Design in Food Delivery Platforms
+
+**Jagan Jacob**\
+*European Journal of Operational Research*, 2026
+
+[Link (Open Access)](https://doi.org/10.1016/j.ejor.2026.06.036) \[Sole Author\]
+
+------------------------------------------------------------------------
+
+### When to Implement AI-Assisted Policies at a Warehouse?
+
+**Jagan Jacob**\
+*Computers & Industrial Engineering*, 2026
+
+[Link (Open Access](https://doi.org/10.1016/j.cie.2026.112054)) \[Sole Author\]
+
+------------------------------------------------------------------------
+
+### Coordinating Incentives and Curb Capacity in a Food Delivery Platform
+
+**Jagan Jacob**\
+*European Journal of Operational Research*, 2026
+
+[Link (Open Access)](https://doi.org/10.1016/j.ejor.2026.03.004) \[Sole Author\]
+
+------------------------------------------------------------------------
+
+### Is Telemedicine Worth the Effort?
+
+**Jagan Jacob, F. Wan, and A. Jin**\
+*Computers & Industrial Engineering*, Volume 188, 2024, Article 109854
+
+[Link (Open Access)](https://doi.org/10.1016/j.cie.2023.109854)
+
+------------------------------------------------------------------------
+
+
+### Ride Solo or Pool
+
+**Jagan Jacob** and R. Roet-Green\
+*European Journal of Operational Research*, 2021
+
+[Link](https://doi.org/10.1016/j.ejor.2021.03.058)
+
+------------------------------------------------------------------------
+
+### Should Competing Firms Cooperate to Reduce Congestion?
+
+**Jagan Jacob**\
+*Transportation Research Part E*, 2020
+
+[Link](https://doi.org/10.1016/j.tre.2020.101929)
+
+------------------------------------------------------------------------
+
+### Designing Price-Service Menus in a Product-Service System
+
+**Jagan Jacob**\
+*International Journal of Systems Science: Operations & Logistics*, 2023
+
+[Link (Open Access)](https://doi.org/10.1080/23302674.2023.2235812) \[Sole Author\]
+
+------------------------------------------------------------------------
+
+### Should Firms Voluntarily Implement Social Distancing Measures During the COVID-19 Pandemic?
+
+**Jagan Jacob**\
+*International Journal of Systems Science: Operations & Logistics*, 2023
+
+[Link (Open Access)](https://doi.org/10.1080/23302674.2023.2253369) \[Sole Author\]
+
+------------------------------------------------------------------------
+
+### Do Wholesale Pricing Strategies Matter During Asymmetric Disruptions?
+
+S. Raju, Rofin T. M., Pawan Kumar, and **Jagan Jacob**\
+*Journal of Modelling in Management*, 2023
+
+[Journal page](PASTE-PUBLICATION-LINK-HERE)
+
+------------------------------------------------------------------------
+
+
+### Screening Mechanism When Online Users Have Privacy Concerns
+
+**Jagan Jacob**\
+*International Journal of Revenue Management*, 2019
+
+[Link (Open Access)](https://ideas.repec.org/a/ids/ijrevm/v11y2019i1-2p89-125.html)

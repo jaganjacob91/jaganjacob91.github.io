@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+---
+
+My teaching focuses on helping students use analytical methods to make sound operational and managerial decisions.
+
+## Xavier University
+
+### Operations and Supply Chain Management
+
+Undergraduate course covering process analysis, capacity, inventory, quality, supply chains, and operational decision-making.
+
+### Logistics
+
+Undergraduate course examining transportation, distribution, warehousing, fulfillment, and logistics-system design.
+
+### Business Analytics for Managers
+
+Graduate course introducing quantitative and analytical tools for managerial decision-making.
+
+### Discrete-Event Simulation
+
+Graduate course covering simulation modeling, experimentation, output analysis, and operational applications.
+
+### Quality and Productivity in Operations
+
+Undergraduate course addressing process improvement, quality management, productivity, and operational performance.
+
+## Teaching Interests
+
+- Operations management
+- Logistics and supply chain management
+- Business statistics
+- Quantitative analysis
+- Optimization
+- Discrete-event simulation
+

@@ -1,0 +1,53 @@
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #2b2b2b;
+}
+
+h1,
+h2,
+h3 {
+  color: #17365d;
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #d7dce2;
+}
+
+.navbar {
+  background-color: #17365d !important;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+a {
+  color: #245a93;
+}
+
+a:hover {
+  color: #17365d;
+}
+
+.btn-primary {
+  background-color: #17365d;
+  border-color: #17365d;
+}
+
+.btn-outline-primary {
+  color: #17365d;
+  border-color: #17365d;
+}
+
+main.content {
+  max-width: 1000px;
+}
+
+.page-footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
