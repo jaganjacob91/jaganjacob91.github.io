@@ -6,11 +6,13 @@ page-layout: full
 
 ## About
 
-I am an Associate Professor in the Department of Business Analytics and Information Systems at the Williams College of Business, Xavier University.
+I am an Associate Professor in the Department of Business Analytics and Information Systems at the Williams College of Business, Xavier University, Cincinnati, Ohio, USA.
 
 My research examines operational decision-making in digital platforms, service systems, supply chains, and technology-enabled markets. I use analytical modeling to study platform operations, service design, pricing, congestion, artificial intelligence, and strategic interactions among firms and customers.
 
-[Research](research.qmd){.btn .btn-primary} [ORCID](https://orcid.org/0000-0001-5809-3092){.btn .btn-outline-primary}
+[Research](research.qmd){.btn .btn-primary}
+[Teaching](teaching.qmd){.btn .btn-outline-primary}
+[ORCID](https://orcid.org/0000-0001-5809-3092){.btn .btn-outline-primary}
 
 ## Research Areas
 
@@ -21,6 +23,19 @@ My research examines operational decision-making in digital platforms, service s
 - Game theory and economic modeling
 - Logistics and last-mile delivery
 
-Collaborations are always welcome. Please feel free to reach out to me via email at jaganjacob91@gmail.com 
+## Teaching Areas
 
-[View all publications](research.qmd){.btn .btn-primary}
+- Operations management
+- Supply chain management
+- Business analytics and prescriptive analytics
+- Optimization and decision modeling
+- Discrete-event simulation
+- Logistics and transportation
+- Quantitative methods for managerial decision-making
+
+## Collaboration
+
+I welcome research collaborations in operations management, supply chain management, service and platform operations, and related areas. Please feel free to contact me by email.
+
+[Email Me](mailto:jaganjacob91@gmail.com){.btn .btn-outline-primary}
+[View All Publications](research.qmd){.btn .btn-primary}
