@@ -8,11 +8,13 @@ page-layout: full
 
 I am an Associate Professor in the Department of Business Analytics and Information Systems at the Williams College of Business, Xavier University, Cincinnati, Ohio, USA.
 
+I received my Ph.D. in Operations Management from the University of Rochester in 2020. I graduated with dual degrees (bachelor and master of technology) in Industrial and Systems Engineering from the Indian Institute of Technology, Kharagpur, India, in 2014.
+
 My research examines operational decision-making in digital platforms, service systems, supply chains, and technology-enabled markets. I use analytical modeling to study platform operations, service design, pricing, congestion, artificial intelligence, and strategic interactions among firms and customers.
 
 [Research](research.qmd){.btn .btn-primary}
 [Teaching](teaching.qmd){.btn .btn-outline-primary}
-[ORCID](https://orcid.org/0000-0001-5809-3092){.btn .btn-outline-primary}
+
 
 ## Research Areas
 
@@ -38,4 +40,3 @@ My research examines operational decision-making in digital platforms, service s
 I welcome research collaborations in operations management, supply chain management, service and platform operations, and related areas. Please feel free to contact me by email.
 
 [Email Me](mailto:jaganjacob91@gmail.com){.btn .btn-outline-primary}
-[View All Publications](research.qmd){.btn .btn-primary}
