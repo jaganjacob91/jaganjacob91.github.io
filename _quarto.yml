@@ -23,5 +23,8 @@ format:
     css: styles.css
     toc: false
     link-external-newwindow: true
+    include-in-header: google-verification.html
 
 editor: visual
+
+    
