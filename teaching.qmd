@@ -34,4 +34,3 @@ Undergraduate course addressing process improvement, quality management, product
 - Quantitative analysis
 - Optimization
 - Discrete-event simulation
-
