@@ -44,10 +44,19 @@ My research focuses on analytical and strategic problems in platform operations,
 
 ------------------------------------------------------------------------
 
+### Pricing with route choice and at-location congestion
+
+**Jagan Jacob**\
+*Operations Research Letters*, 2026
+
+[Link (Open Access)](https://doi.org/10.1016/j.orl.2026.107510) 
+
+------------------------------------------------------------------------
+
 ### Is Telemedicine Worth the Effort?
 
 **Jagan Jacob, F. Wan, and A. Jin**\
-*Computers & Industrial Engineering*, Volume 188, 2024, Article 109854
+*Computers & Industrial Engineering*,  2024
 
 [Link (Open Access)](https://doi.org/10.1016/j.cie.2023.109854)
 
