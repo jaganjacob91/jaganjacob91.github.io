@@ -12,9 +12,7 @@ I received my Ph.D. in Operations Management from the University of Rochester in
 
 My research examines operational decision-making in digital platforms, service systems, supply chains, and technology-enabled markets. I use analytical modeling to study platform operations, service design, pricing, congestion, artificial intelligence, and strategic interactions among firms and customers.
 
-[Research](research.qmd){.btn .btn-primary}
-[Teaching](teaching.qmd){.btn .btn-outline-primary}
-
+[Research](research.qmd){.btn .btn-primary} [Teaching](teaching.qmd){.btn .btn-outline-primary}
 
 ## Research Areas
 
