@@ -17,99 +17,99 @@ My research focuses on analytical and strategic problems in platform operations,
 
 ## Peer-Reviewed Journal Publications
 
-### Delivery-Time Benchmark Design in Food Delivery Platforms
+<span style="color: #1F5F99;">Delivery-Time Benchmark Design in Food Delivery Platforms</span>
 
-**Jagan Jacob**\
-*European Journal of Operational Research*, 2026
+Author(s): *Jagan Jacob*\
+**European Journal of Operational Research**, 2026
 
 [Link (Open Access)](https://doi.org/10.1016/j.ejor.2026.06.036)
 
 ------------------------------------------------------------------------
 
-### When to Implement AI-Assisted Policies at a Warehouse?
+<span style="color: #1F5F99;">When to Implement AI-Assisted Policies at a Warehouse?</span>
 
-**Jagan Jacob**\
-*Computers & Industrial Engineering*, 2026
+Author(s): *Jagan Jacob*\
+**Computers & Industrial Engineering**, 2026
 
-[Link (Open Access](https://doi.org/10.1016/j.cie.2026.112054))
+[Link (Open Access)](https://doi.org/10.1016/j.cie.2026.112054)
 
 ------------------------------------------------------------------------
 
-### Coordinating Incentives and Curb Capacity in a Food Delivery Platform
+<span style="color: #1F5F99;">Coordinating Incentives and Curb Capacity in a Food Delivery Platform</span>
 
-**Jagan Jacob**\
-*European Journal of Operational Research*, 2026
+Author(s): *Jagan Jacob*\
+**European Journal of Operational Research**, 2026
 
 [Link (Open Access)](https://doi.org/10.1016/j.ejor.2026.03.004)
 
 ------------------------------------------------------------------------
 
-### Pricing with route choice and at-location congestion
+<span style="color: #1F5F99;">Pricing with Route Choice and At-Location Congestion</span>
 
-**Jagan Jacob**\
-*Operations Research Letters*, 2026
+Author(s): *Jagan Jacob*\
+**Operations Research Letters**, 2026
 
 [Link (Open Access)](https://doi.org/10.1016/j.orl.2026.107510)
 
 ------------------------------------------------------------------------
 
-### Is Telemedicine Worth the Effort?
+<span style="color: #1F5F99;">Is Telemedicine Worth the Effort?</span>
 
-**Jagan Jacob**, F. Wan, and A. Jin\
-*Computers & Industrial Engineering*, 2024
+Author(s): *Jagan Jacob*, F. Wan, and A. Jin\
+**Computers & Industrial Engineering**, 2024
 
 [Link (Open Access)](https://doi.org/10.1016/j.cie.2023.109854)
 
 ------------------------------------------------------------------------
 
-### Designing Price-Service Menus in a Product-Service System
+<span style="color: #1F5F99;">Designing Price-Service Menus in a Product-Service System</span>
 
-**Jagan Jacob**\
-*International Journal of Systems Science: Operations & Logistics*, 2023
+Author(s): *Jagan Jacob*\
+**International Journal of Systems Science: Operations & Logistics**, 2023
 
 [Link (Open Access)](https://doi.org/10.1080/23302674.2023.2235812)
 
 ------------------------------------------------------------------------
 
-### Should Firms Voluntarily Implement Social Distancing Measures During the COVID-19 Pandemic?
+<span style="color: #1F5F99;">Should Firms Voluntarily Implement Social Distancing Measures During the COVID-19 Pandemic?</span>
 
-**Jagan Jacob**\
-*International Journal of Systems Science: Operations & Logistics*, 2023
+Author(s): *Jagan Jacob*\
+**International Journal of Systems Science: Operations & Logistics**, 2023
 
 [Link (Open Access)](https://doi.org/10.1080/23302674.2023.2253369)
 
 ------------------------------------------------------------------------
 
-### Do Wholesale Pricing Strategies Matter During Asymmetric Disruptions?
+<span style="color: #1F5F99;">Do Wholesale Pricing Strategies Matter During Asymmetric Disruptions?</span>
 
-S. Raju, Rofin T. M., Pawan Kumar, and **Jagan Jacob**\
-*Journal of Modelling in Management*, 2023
+Author(s): S. Raju, Rofin T. M., Pawan Kumar, and *Jagan Jacob*\
+**Journal of Modelling in Management**, 2023
 
-[Journal page](PASTE-PUBLICATION-LINK-HERE)
+[Link](https://doi.org/10.1108/JM2-12-2022-0289)
 
 ------------------------------------------------------------------------
 
-### Ride Solo or Pool
+<span style="color: #1F5F99;">Ride Solo or Pool</span>
 
-**Jagan Jacob** and R. Roet-Green\
-*European Journal of Operational Research*, 2021
+Author(s): *Jagan Jacob* and R. Roet-Green\
+**European Journal of Operational Research**, 2021
 
 [Link](https://doi.org/10.1016/j.ejor.2021.03.058)
 
 ------------------------------------------------------------------------
 
-### Should Competing Firms Cooperate to Reduce Congestion?
+<span style="color: #1F5F99;">Should Competing Firms Cooperate to Reduce Congestion?</span>
 
-**Jagan Jacob**\
-*Transportation Research Part E*, 2020
+Author(s): *Jagan Jacob*\
+**Transportation Research Part E**, 2020
 
 [Link](https://doi.org/10.1016/j.tre.2020.101929)
 
 ------------------------------------------------------------------------
 
-### Screening Mechanism When Online Users Have Privacy Concerns
+<span style="color: #1F5F99;">Screening Mechanism When Online Users Have Privacy Concerns</span>
 
-**Jagan Jacob**\
-*International Journal of Revenue Management*, 2019
+Author(s): *Jagan Jacob*\
+**International Journal of Revenue Management**, 2019
 
 [Link (Open Access)](https://ideas.repec.org/a/ids/ijrevm/v11y2019i1-2p89-125.html)
