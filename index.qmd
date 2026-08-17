@@ -10,7 +10,7 @@ I am an Associate Professor in the Department of Business Analytics and Informat
 
 I received my Ph.D. in Operations Management from the University of Rochester in 2020. I graduated with dual degrees (bachelor and master of technology) in Industrial and Systems Engineering from the Indian Institute of Technology, Kharagpur, India, in 2014.
 
-My research examines operational decision-making in digital platforms, service systems, supply chains, and technology-enabled markets. I use analytical modeling to study platform operations, service design, pricing, congestion, artificial intelligence, and strategic interactions among firms and customers.
+My research examines operational decision-making in digital platforms, service systems, supply chains, and technology-enabled markets. I use analytical modeling, game theory, mechanism design and queueing theory  to study platform operations, service design, pricing, congestion, artificial intelligence, and strategic interactions among firms and customers.
 
 [View Research & Publications](research.qmd){.btn .btn-primary} 
 
