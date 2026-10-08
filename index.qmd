@@ -6,7 +6,7 @@ title: false
 
 ::: {.g-col-4 .d-flex .justify-content-center}
 
-![](images/Headpic.png){width=82% style="margin-top: 35px; border-radius: 4px;" fig-alt="Jagan Jacob"}
+![](images/jagan-headshot.png){width=350px style="margin-top: 28px; border-radius: 6px;" fig-alt="Jagan Jacob"}
 
 :::
 
