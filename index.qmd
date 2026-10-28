@@ -2,21 +2,15 @@
 title: false
 ---
 
-::: {.grid}
-
+::::: grid
 ::: {.g-col-4 .d-flex .justify-content-center}
-
-![](images/jagan-headshot.png){width=350px style="margin-top: 28px; border-radius: 6px;" fig-alt="Jagan Jacob"}
-
+![](images/jagan-headshot.png){width="350px" style="margin-top: 28px; border-radius: 6px;" fig-alt="Jagan Jacob"}
 :::
 
-::: {.g-col-8}
-
+::: g-col-8
 # Jagan Jacob
 
-<span style="color: #777; font-size: 1.1em;">
-Associate Professor of Operations and Supply Chain Management
-</span>
+[ Associate Professor of Operations and Supply Chain Management ]{style="color: #777; font-size: 1.1em;"}
 
 ## About
 
@@ -37,7 +31,5 @@ My research examines operational decision-making in digital platforms, service s
 I welcome research collaborations in operations management, supply chain management, service and platform operations, and related areas. Please feel free to contact me by email.
 
 [Email Me](mailto:jaganjacob91@gmail.com){.btn .btn-outline-primary}
-
 :::
-
-:::
+:::::
