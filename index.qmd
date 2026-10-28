@@ -26,6 +26,8 @@ My research examines operational decision-making in digital platforms, service s
 
 [View Teaching](teaching.qmd){.btn .btn-outline-primary}
 
+[Download CV](files/Jagan_Jacob_Resume_CV.pdf){.btn .btn-outline-primary target="_blank"}
+
 ## Collaboration
 
 I welcome research collaborations in operations management, supply chain management, service and platform operations, and related areas. Please feel free to contact me by email.
