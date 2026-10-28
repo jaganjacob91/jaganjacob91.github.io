@@ -26,6 +26,8 @@ My research examines operational decision-making in digital platforms, service s
 
 [View Teaching](teaching.qmd){.btn .btn-outline-primary}
 
+<br>
+
 [Download CV](files/Jagan_Jacob_Resume_CV.pdf){.btn .btn-outline-primary target="_blank"}
 
 ## Collaboration
